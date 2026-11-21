@@ -1,6 +1,170 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aeronautics-client.toml"
+hash = "8d41a8e549a15100345effd3c49bef8a83af14cfde829223146b2f8e04257dc3"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "cf802bcdb805f78b2254eca13ab89f0d36a2404124eeb4e743019f011c981807"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "bc44d40fc3f6838a48a622b1452dd4701ef529392f06f77a1739997fff97d182"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/client/default/jei-client.ini"
+hash = "08c99b0664902e0d5e003c1596f756a67da47feb0d0c1dd0d42e2f457061aaf3"
+
+[[files]]
+file = "config/jei/client/default/jei-colors.ini"
+hash = "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
+
+[[files]]
+file = "config/jei/client/default/jei-debug.ini"
+hash = "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
+
+[[files]]
+file = "config/jei/client/default/jei-mod-id-format.ini"
+hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
+
+[[files]]
+file = "config/jei/client/ingredient-list-mod-sort-order.ini"
+hash = "b2569cac2d8a72f2546395ed339a6ffaaac50c657c46504877c8374dacd46ad0"
+
+[[files]]
+file = "config/jei/client/ingredient-list-type-sort-order.ini"
+hash = "fd4ad87916ab7e3fba03d83f88898ee77c77051f23006e82a62d666bc71a38ef"
+
+[[files]]
+file = "config/jei/client/recipe-category-sort-order.ini"
+hash = "467e5f1ce9b6e55c2948e3698971e3d0bc4a65b9b6c993f6042978fac42036a8"
+
+[[files]]
+file = "config/jei/server/world/default/jei-server.ini"
+hash = "729cd9f0817c7870e5c22d77b4db4b5f98d78c86c6f3214dcb777f5e720ee703"
+
+[[files]]
+file = "config/mezz_config/client/default/settings.ini"
+hash = "1ea4410cacf1baa6ee372daf59d4c5989ad944c0eaf26f043d702f13bad204b1"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "0f6d56b78517db000f8326f434f10c3c6ebcb5504fe632123e8e740df397805b"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
+
+[[files]]
+file = "config/offroad-server.toml"
+hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "0dd32460fb2fc6a4e438784924c377f11ba416732be1daff68c951e2e197d42d"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
+
+[[files]]
+file = "config/sable-server.toml"
+hash = "086c61695c31826b3fbcd4e5f55be8f42c3e4f25d6e1d3ffb680588a7457d2bc"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b"
+
+[[files]]
+file = "config/simulated-server.toml"
+hash = "74ceaca226933e2471df76e5f6a8b1d0e2e339754419fd7c0c8f37fb3b90d243"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "ca2ae4dd6e4a38451c34d0ce722b90aff6845699c72a7f81a75532a2949bdf82"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "19005d189b90d95b5b981784480f1a39bf24022535f71b9afd7175e17216a038"
 metafile = true
@@ -8,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -27,10 +196,20 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+hash = "311935774263514ee491dc548fe427fa04c7bc8b796dc7e5e81314f9f0ce7876"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "71ef38dd4b5a0a9b3dda3770150e94b849ba3160010d0d023511e6941aa79e3e"
 metafile = true
